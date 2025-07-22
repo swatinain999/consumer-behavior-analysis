@@ -1,4 +1,3 @@
-# consumer-behavior-analysis
 # Consumer Behavior Analysis
 
 ## 📌 Overview
