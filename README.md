@@ -1,23 +1,30 @@
 # Consumer Behavior Analysis
 
 ## 📌 Overview
-This project presents an Excel-based case study focused on analyzing consumer purchasing behavior. The goal was to identify trends in product performance, customer preferences, and sales patterns across different regions.
+This Excel-based case study analyzes consumer purchasing behavior to uncover patterns in product preferences, regional performance, and sales trends. It simulates a real-world retail scenario to draw actionable business insights using spreadsheet tools.
 
-## 📂 File
-- `consumer-case-study-solution.xlsx`: The Excel file contains raw data, cleaned datasets, pivot tables, and visual dashboards.
+## 📁 File Included
+- `Solution case study consumer.xlsx`: Complete analysis including raw data, pivot tables, and dashboards.
 
-## 🔧 Tools Used
+## 🧰 Tools Used
 - Microsoft Excel  
 - Pivot Tables  
-- Charts (Bar, Pie, Line)  
-- Data Sorting & Filtering  
-- Conditional Formatting
+- Charts (Column, Line, Pie)  
+- Conditional Formatting  
+- Data Cleaning & Filtering
 
 ## 🎯 Key Insights
-- Identified top-performing product categories and regions  
-- Analyzed customer buying patterns based on volume and frequency  
+- Identified top-performing product categories  
+- Analyzed sales performance across regions and customer segments  
 - Visualized monthly and yearly sales trends  
-- Offered suggestions for improving product targeting and inventory planning
+- Provided strategic recommendations for inventory and marketing focus
+
+## 📸 Dashboard Previews
+The repository includes multiple dashboard screenshots showcasing:
+- Sales summary and product performance
+- Region-wise revenue distribution
+- Monthly trends in quantity sold
+- Customer segment-wise insights
 
 ## 💡 Learning Outcome
-This case study strengthened my skills in Excel-based data analysis and helped simulate a real-world scenario for business decision-making. It demonstrates my ability to convert raw data into actionable insights.
+This project enhanced my Excel analytics skills by solving a real-world business problem. It demonstrates my ability to use Excel for structured data analysis, visualization, and business storytelling.
